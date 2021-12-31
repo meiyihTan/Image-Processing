@@ -2,7 +2,7 @@
 
 
 ## Pipeline with training face recognition
-The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/drive/1xjGPgB8pJ8V4KpL-fLbYoFlnHj48ux4Z?usp=sharing).
+The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/drive/1zqF0Zt71xhiP-2u25SzkDmc5CMdx4t1b?usp=sharing).
 
 ### Test medical masks augmentations
 You can also test masked faces pipeline from this [colab notebook](https://colab.research.google.com/drive/1U8MgXps30Oo7sgbNDh_SSu89SKoQoe1r?usp=sharing )
