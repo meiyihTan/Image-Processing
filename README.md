@@ -1,4 +1,4 @@
-# WIX3001 Soft Computing Individual Assignment - Broutonlab face recognition with medical masks
+# WID3008 Image Processing Assignment - Face recognition with medical masks
 This repository contains the source code for the [**article**](https://broutonlab.com/blog/how-facial-recognition-works-with-face-masks) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
 
 ## Pipeline with training face recognition
