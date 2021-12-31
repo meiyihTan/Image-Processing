@@ -1,5 +1,5 @@
 # WID3008 Image Processing Assignment - Face recognition with medical masks
-This repository contains the source code for the [**article**](https://broutonlab.com/blog/how-facial-recognition-works-with-face-masks) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
+
 
 ## Pipeline with training face recognition
 The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/drive/1xjGPgB8pJ8V4KpL-fLbYoFlnHj48ux4Z?usp=sharing).
@@ -43,3 +43,6 @@ Process of training a DCNN for face recognition supervised by the ArcFace loss
 We were able to achieve 58 percents accuracy with **custom metric** on test dataset. The ability to show impressive results for such limited training time proves that pipeline is able to solve face recognition with medical masks task.
 
 ![Results](https://cdn-images-1.medium.com/max/1200/1*f7aMUHEvVB9WGIIyf8NtXQ.png)
+
+## Acknowledgments
+This repository contains the source code  borrows from the [**article**](https://broutonlab.com/blog/how-facial-recognition-works-with-face-masks) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
